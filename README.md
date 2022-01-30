@@ -6,3 +6,5 @@ Some scripts here are not that good and you should not really try to use them wi
 
 # Organization
 Scripts with .client.lua are client scripts, .server.lua are server scripts and the ones with only .lua are module scripts.
+
+Scripts that are in the "Raw" folder may be missing things and might not work, they will be gradually documented
